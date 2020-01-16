@@ -1,0 +1,6 @@
+D:\ParserToSoap\ParserToSoap\bin\Debug\ParserToSoap.exe.config
+D:\ParserToSoap\ParserToSoap\bin\Debug\ParserToSoap.exe
+D:\ParserToSoap\ParserToSoap\bin\Debug\ParserToSoap.pdb
+D:\ParserToSoap\ParserToSoap\obj\Debug\ParserToSoap.csprojAssemblyReference.cache
+D:\ParserToSoap\ParserToSoap\obj\Debug\ParserToSoap.exe
+D:\ParserToSoap\ParserToSoap\obj\Debug\ParserToSoap.pdb
